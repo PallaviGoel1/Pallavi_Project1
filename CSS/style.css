@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+{
+    margin: 0;
+    padding: 1;
+    border: none;
+}
+body{
+    font-family: lato, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a3a
+}
+/* heading logo*/
+h1 ,h2{
+    font-family: Oswald, sans-serif;
+    text-transform: upppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+#logo{
+    float: left;
+    font-size: 200%;
+}
+/* navigation links*/
+#home{
+    font-size:110%;
+    letter-spacing: 4px;
+}
+#home,#logo{
+    line-height: 75px;
+}
+#home li{
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+#home a:hover{
+     border-bottom: 1px solid #3a3a3a;
+}
+.active{
+    border-bottom: 1px solid #3a3a3a3a;
+}
+#holi-image{
+    height:600px;
+    width: 200%;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPx7gbziUpJgtYw833cXTK6ZAS9j0pILfhAQ&usqp=CAU') no-repeat center center;
+}
