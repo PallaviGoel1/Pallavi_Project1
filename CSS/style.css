@@ -9,12 +9,20 @@ body{
     font-weight: 300;
     color: #3a3a3a3a
 }
+/* index4 file paragraph / header style*/
+p{
+	color: blue;
+}
+
+header{
+		margin-top: 25px;
+}	
 /* heading logo*/
 h1 ,h2{
     font-family: Oswald, sans-serif;
     text-transform: upppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: blue;
 }
 #logo{
     float: left;
@@ -43,8 +51,9 @@ h1 ,h2{
 .active{
     border-bottom: 1px solid #3a3a3a3a;
 }
-#holi-image{
-    height:600px;
-    width: 200%;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPx7gbziUpJgtYw833cXTK6ZAS9j0pILfhAQ&usqp=CAU') no-repeat center center;
-}
+/* text in center*/
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
