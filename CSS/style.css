@@ -35,7 +35,7 @@ menu a{
 
 h1 ,h2{
     font-family: Oswald, sans-serif;
-    text-transform: upppercase;
+    text-transform: justify;
     letter-spacing: 4px;
     color: black;
 	
@@ -163,7 +163,7 @@ label{
 	content: "show less";
 		display: block;
 		visibility: visible;
-}*/
+}
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
@@ -183,4 +183,38 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+}*/
+
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+div.scroll-container img {
+  padding: 10px;
+}
+
+
+/* right handing story page*/
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
+.right-about-heading {
+    width: 80%;
+    float: justify;
+    line-height: 30px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: justify;
+}
+
+.right-about-heading p {
+    text-align: justify;
 }
