@@ -7,50 +7,107 @@
         <meta name="description" content="Indain 2nd biggest festival, India">
         <meta name="keyword" content="Holi celebreation, Recipes, Song, Importance">
 
-        <title>holi events html page</title>
+        <title>Holi home page html file</title>
 
         <!-- Load external CSS styles -->
-        <link rel="stylesheet" href="css/style.css">
-	<style>
-		body {
-			background-image: url("images/images (4).jpg");
-			background-repeat: no-repeat;
-			background-attachment: fixed;  
-			background-size: cover;
-		}
-	</style>	
-		
+        <link rel="stylesheet" href="css/style.css" type="text/css">
+		<style>
+			body {
+				background-image: url("images/imagesholicolor.jpg");
+			}
+			
+		</style>	
     </head>
 
     <body>
-		<a href="holihomepage.html" class="active">Back To Home Page</a>
-	<header>
-		<h1>Holi celebrations across the world</h1>
-
-		<br>
-
-		<p>
-		Holi is celebrated on the day of Purnima in the month of Falguna (according to Hindu calendar). Which usually is a day in the month of March. Lot of events for 
-		this celebration are organized by different groups on the day or in the month across the world.
-		</p>
-
-		<br>
+		<header>
+			<h1 id="logo">Holi - The Festival Of Colours</h1>
+		</header>
+		<header>
+			<nav id="menu">
+				<ul>
+					<li>
+						<a href="holievents.html">Event Information</a>
+					</li>
+					<li>
+						<a href="holifoodpage.html">Recipes</a>
+					</li>
+					<li>
+						<a href="holihowcelebrate.html">Celebrations</a>
+					</li>
+					<li>
+						<a href="holistory.html">Origin</a>
+					</li>
+					<li>
+						<a href="holihomepage.html">Home</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+			<br>
+			<br>
 		
-		<h1> For More Information related to this festival, Please Contact Me</h1>
-	</header>
-	
-		<section>
-			<div class="centered">
-				<address>
-					<h1>Written by : Pallavi Goel<br>
-					Visit us at: Stockholm(sweden)<br>
-					Mail Id= <a href="pallavigoel2610@gmail.com">Pallavigoel2610@gmail.com</a><br>
-					Stockholm<br>
-					Sweden</h1>
-				</address>
-		
-		</section>
-			</div>
+			<h1>Holi celebrations across the world</h1>
+				<br>
+			<h3>
+				Holi is celebrated on the day of Purnima in the month of Falguna (according to Hindu calendar). Which usually is a day in the month of March. Lot of events for 
+				this celebration are organized by different groups on the day or in the month across the world.
+			</h3>
+					
+				<br>
+				<br>
+					
+			<form method="get" action="https://formdump.codeinstitute.net/">
+			
+				<section>
+					<h2>Feedback</h2>
+					<br>
+					<div>
+						<label for="name-field">Name</label>
+						<input id="name-field" type="text" name="full_name" placeholder="Yourname">
+					</div>
+						<br>
+					<div>
+						<label for="email-field">Email</label>
+						<input id="email-field" type="email" name="email" placeholder="Your_email">
+					</div>
+				</section>
+				
+					<br>
+				<label for="country">Select your location</label>
+				<select name="Country" id="country">
+					<optgroup label="India">
+						<option value="delhi">Delhi</option>
+						<option value="mumbai">Mumbai</option>
+					</optgroup>
+				
+					<optgroup label="Sweden">
+						<option value="stockholm">Stockholm</option>
+						<option value="goteborg">Goteborg</option>
+					</optgroup>
+				</select>
+
+				<div>
+					<fieldset>
+						<br>
+						<label for="feedback">Share your experience/suggestion with us for this website:</label>
+							<br>
+						<textarea id="feedback" rows="4" cols="87" name="feedback"></textarea>
+					</fieldset>
+				</div>
+					<br>
+				<input type="submit" value="Submit">
+			</form>		
+				<br>
+				<br>
+				<br>
+			<h4> For More Information related to this festival, Please Contact Me</h4>
+			<address>
+				Author   : Pallavi Goel<br>
+				Location : Stockholm (Sweden)<br>
+				Mail Id	 : <a href="pallavigoel2610@gmail.com">Pallavigoel2610@gmail.com</a>
+				<br>
+				<br>
+			</address>
 	</body>
-<html>
-	
+</html>
