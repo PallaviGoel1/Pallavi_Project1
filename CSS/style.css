@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 	*{
 		margin: 0;
-		padding: 1;
+		padding: 1px;
 		border: none;
 	}
 
@@ -57,6 +57,7 @@
 		font-size: 20px;
 		letter-spacing: 2px;
 		color: purple;
+		text-align: left;
 	}
 
 	a{
@@ -149,9 +150,16 @@
 		text-align: left;
 	}
 
+
+/*text align food page*/
+	.foodtext {
+		text-align: left;
+	}
+	
+	
 	/* horizontal scroll grallery*/
 
-	div.gallery {
+	/*div.gallery {
 		margin: 5px;
 		border: 1px solid #ccc;
 		float: left;
@@ -171,12 +179,13 @@
 		padding: 15px;
 		text-align: center;
 	}
-
+	*/
 	div.scroll-container {
 		background-color: #333;
 		overflow: auto;
 		white-space: nowrap;
 		padding: 10px;
+		
 	}
 
 	div.scroll-container img {

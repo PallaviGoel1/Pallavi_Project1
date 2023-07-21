@@ -11,27 +11,54 @@
 
         <!-- Load external CSS styles -->
 
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 		
 		<style>
-			body{
+			header {
+				z-index: 1;
+				height: 100px;
+			}
+			
+			body {
 			background-image: url("images/imagesholi.jpg");
 			background-repeat: no-repeat;
 			background-attachment: fixed;
 			background-size: 100% 100%;
-			
 			}
 		</style>
 
     </head>
 
     <body>
-		<a href="holihomepage.html" class="active" margin="right">Back to Home Page</a>
+		<header>
+			<h1 id="logo">Holi - The Festival Of Colours</h1>
+			<nav id="home">
+				<ul>
+					<li>
+						<a href="holievents.html">Event Information</a>
+					</li>
+					<li>
+						<a href="holifoodpage.html">Recipes</a>
+					</li>
+					<li>
+						<a href="holihowcelebrate.html">Celebrations</a>
+					</li>
+					<li>
+						<a href="holistory.html">Origin</a>
+					</li>
+					<li>
+						<a href="holihomepage.html">Home</a>
+					</li>
+				</ul>
+			</nav>
+		</header>
+		
+		<section>
 		<div id="left-about">
             <div class="left-about-heading" >
                 <h2>Rang Panchami <br>(Maharashtra)</h2>
 				<br>
-				<img src="images/rangpanchamiholi.jpg">
+				<img src="images/rangpanchamiholi.jpg" alt="maharastraholipic">
                 <hr>
                 <p>
                     According to the Hindu scriptures, Ranga Panchami is symbolic of victory over 
@@ -48,7 +75,7 @@
             <div class="left-about-heading">
                 <h2>Royal Holi (Rajasthan)</h2>
 				<br>
-				<img src="images/royalholi.jpg">
+				<img src="images/royalholi.jpg" alt="Jaipurholipic">
                 <hr>
                 <p>
                    Holi in Jaipur and most parts of India is a two-day festival marking the onset of the 
@@ -63,7 +90,7 @@
 			<div class="left-about-heading">
 				<h2>Hola Mohalla (Punjab)</h2>
 				<br>
-				<img src="images/punjabiholi.jpg">
+				<img src="images/punjabiholi.jpg" alt="punjabiholipic">
 				<hr>
 				<p> 
 					This was where Guru Gobind Singh presented the Hola celebration in the spring of 1701,
@@ -79,7 +106,7 @@
 			<div class="right-about-heading">
                 <h2>Lathmar Holi (Uttar Pradesh)</h2>
 				<br>
-				<img src="images/lathmarholi.jpg">
+				<img src="images/lathmarholi.jpg" alt="uttarpradeshholipic">
                 <hr>
                 <p>
                    The Lathmar Holi is celebrated in memory of lord Krishna and the goddess Radha.
@@ -94,7 +121,7 @@
 			<div class="right-about-heading">
                 <h2>Phaguwa (Bihar)</h2>
 				<br>
-				<img src="images/phaguwaholi.jpg">
+				<img src="images/phaguwaholi.jpg" alt="biharholipic">
                 <hr>
                 <p>
                     Phaguwa is the local name for Holi in Bihar. On the night before Holi, Holika Dahan is
@@ -103,13 +130,13 @@
 					<p>Holi is celebrated in the month of Phalgun. It starts with Holika Dahan or Chhoti Holi
 					on Phalgun Purnima and continues till next day when Dhulendi or Badi Holi is celebrated 
 					with all kinds of color such as mud, powdered colors mixed with water and Gulal. In Bihar,
-					Holi is all about food, colour and fun.</p>
+					Holi is all about food, colour and fun.
                 </p>
             </div>
 			<div class="right-about-heading">
 				<h2>Basant Utasv (West Bengal)</h2>
 				<br>
-				<img src="images/basantutsav.jpg">
+				<img src="images/basantutsav.jpg" alt="westbengalholipic">
 				<hr>
 				<p>The festival signifies the end of winters and arrival of blooming spring. The festival also 
 				celebrates the beginning of harvest season. It is celebrated on the first Full Moon of Phalguna
@@ -122,8 +149,6 @@
 				</p>
 			</div>
 		</div>
-	</div>	
-        
-    </section>
+		</section>
 	</body>
 </html>
