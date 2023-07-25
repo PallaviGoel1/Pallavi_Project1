@@ -37,11 +37,11 @@ I took help from training material provided by Code Institute when preparing thi
 
 In current status, this website is functioning for the targated local execution. As well this is ready for launching in WWW. Highlevel enhancements for fututre are metioned in roadmap, which are not mandatory, of course, but will provide more value to the website.
 
-Validator Testing
+#Validator Testing
 
 HTML
         No errors were returned when passing through the official W3C validator
-        
+
 CSS
         No errors were found when passing through the official (Jigsaw) validator
 
