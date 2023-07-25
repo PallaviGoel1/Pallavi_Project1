@@ -40,7 +40,7 @@ In current status, this website is functioning for the targated local execution.
 #Validator Testing
 
 HTML
-        No errors were returned when passing through the official W3C validator
+        No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
 
 CSS
         No errors were found when passing through the official (Jigsaw) validator
