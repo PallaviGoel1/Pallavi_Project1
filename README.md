@@ -1,8 +1,8 @@
-#Project Name: 
+#My First Project
 
-Pallavi Project1 Holi
+Welcome: [Code Institute](https://codeinstitute.net)
 
-#Project Description: 
+Project Description: 
 
 As I am studying at Code Institute, this project is prepared for submission as my first project which is after getting a good understanding of HTML and CSS.
 
