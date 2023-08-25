@@ -396,3 +396,11 @@
 	div.scroll-container img {
 		padding: 10px;
 	}
+
+	.container {
+
+		position: absolute;
+		top: 75%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
