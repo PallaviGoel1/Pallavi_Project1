@@ -128,7 +128,7 @@
 	
 	/* holi story file paragraph / header style*/
 	p{
-		color: black;
+		color: rgb(10, 6, 198);
 	}
 
 	/* heading h1, h2 , h3 ,a, logo*/	
@@ -149,7 +149,6 @@
 
 		h3{
 			font-size: 10px;
-			color: rgb(0, 0, 255);
 			font-family:courier;
 			padding: 5px;
 			letter-spacing: 1px;
@@ -211,11 +210,10 @@
 
 		h3{
 			font-size: 20px;
-			color: rgb(0, 0, 255);
 			font-family:courier;
 			padding: 5px;
 			letter-spacing: 2px;
-			color: green;
+			color: rgb(139, 6, 146);
 		}
 
 		h4{
@@ -231,7 +229,7 @@
 	}
 
 	p{
-		color: brown;
+		color: rgb(28, 7, 121);
 	}
 
 	#logo{
@@ -270,6 +268,7 @@
 			line-height: 20px;
 			clear: both;
 			margin-bottom: 20px;
+			position: fixed;
 		}
 	}
 	
@@ -369,14 +368,17 @@
 		padding-top: 30px;
 		width: 40%;
 		float: right;
+		position: relative;
 	}
 
 	.right-about-heading h2 {
 		text-align: left;
+	
 	}
 
 	.right-about-heading p {
 		text-align: left;
+		
 	}
 
 
@@ -388,7 +390,7 @@
 	
 	/* horizontal scroll image homepage*/
 	div.scroll-container {
-		background-color: #333;
+		background-color: rgb(88, 42, 9);
 		overflow: auto;
 		white-space: nowrap;
 		padding: 10px;	
