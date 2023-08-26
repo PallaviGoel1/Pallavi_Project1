@@ -197,7 +197,7 @@
 	@media only screen and (min-width: 782px) {
 		h1{
 			font-size: 40px;
-			color: chocolate;
+			color: rgb(101, 46, 6);
 		}
 
 		h2{
@@ -230,6 +230,7 @@
 
 	p{
 		color: rgb(28, 7, 121);
+		text-align: left;
 	}
 
 	#logo{
@@ -407,4 +408,24 @@
   		left: 75px;
 		right: 50px;
 		text-align: justify;
+	}
+
+	#colmnimg
+	{
+		float: left;
+		width: 30%;
+		padding: 5px;
+	}
+
+	#colmntxt
+	{
+		float: left;
+		width: 60%;
+		padding: 5px;
+	}
+
+	#row
+	{
+		display: table;
+		clear: both;
 	}
