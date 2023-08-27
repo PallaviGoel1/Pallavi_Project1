@@ -4,233 +4,67 @@
 		padding: 1px;
 		border: none;
 	}
-	
-	@media only screen and (max-width: 600px) {
-		body{
-			font-family: lato, sans-serif;
-			font-weight: 300;
-			color: black;
-			font-size: 50%;
-			background-repeat: no-repeat;
-			background-size: 100% 100%;
-			position: static;
-			z-index: 2;
-		}
 
-		header{
-			margin-top: 0px;
-			text-align : left;
-			top: 0;
-			left: 0;
-			z-index: 1;
-			height: 30px;
-		}
-			
-		section {
-			background-repeat: no-repeat;
-			background-size: 100% 100%;
-			position: relative;
-			z-index: 2;
-			font-size: 50%;
-			top: 10px;
-		}
-	
-		footer {
-			width: 100%;
-			position: fixed;
-			bottom: 0;
-			right: 0;
-			z-index: 3;
-		}
-
+	body{
+		font-family: lato, sans-serif;
+		font-weight: 300;
+		color: black;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		position: static;
+		z-index: 2;
+		font-size: 100%			
 	}
 	
-	@media only screen and (min-width: 600px) {
-		body{
-			font-family: lato, sans-serif;
-			font-weight: 300;
-			color: black;
-			font-size: 75%;
-			background-repeat: no-repeat;
-			background-size: 100% 100%;
-			position: static;
-			z-index: 2;
-		}
-		
-		header{
-			margin-top: 0px;
-			text-align : left;
-			top: 0;
-			left: 0;
-			z-index: 1;
-			height: 40px;
-		}
-			
-		section {
-			background-repeat: no-repeat;
-			background-size: 100% 100%;
-			position: relative;
-			z-index: 2;
-			font-size: 75%;
-			top: 20px;
-		}
+	header{
+		margin-top: 0px;
+		text-align : left;
+		top: 0;
+		left: 0;
+		z-index: 1;
+		height: 50px;
+	}
 
-		footer {
-			width: 100%;
-			position: fixed;
-			bottom: 0;
-			right: 0;
-			z-index: 3;
-		}
-
+	section {
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		position: static;
+		z-index: 2;
+		font-size: 100%;		
+		top: 20px;
 	}
 	
-	@media only screen and (min-width: 782px) {
-		body{
-			font-family: lato, sans-serif;
-			font-weight: 300;
-			color: black;
-			background-repeat: no-repeat;
-			background-size: 100% 100%;
-			position: static;
-			z-index: 2;
-			font-size: 100%			
-		}
-		
-		header{
-			margin-top: 0px;
-			text-align : left;
-			top: 0;
-			left: 0;
-			z-index: 1;
-			height: 50px;
-		}
 	
-		section {
-			background-repeat: no-repeat;
-			background-size: 100% 100%;
-			position: static;
-			z-index: 2;
-			font-size: 100%;		
-			top: 20px;
-		}
-		
-		footer {
-			width: 100%;
-			position: status-bar;
-			bottom: 0;
-			right: 0;
-			z-index: 3;
-			display: block;
-		}
-
-	}
-	
-	/* holi story file paragraph / header style*/
-	p{
-		color: rgb(10, 6, 198);
+	h1{
+		font-size: 40px;
+		color: rgb(101, 46, 6);
 	}
 
-	/* heading h1, h2 , h3 ,a, logo*/	
-
-	@media only screen and (max-width: 600px) {
-		h1{
-			font-size: 20px;
-			color: chocolate;
-		}
-
-		h2{
-			font-size: 15px;
-			font-family: Oswald, sans-serif;
-			/*text-transform: uppercase;*/
-			letter-spacing: 2px;
-			color: purple;
-		}
-
-		h3{
-			font-size: 10px;
-			font-family:courier;
-			padding: 5px;
-			letter-spacing: 1px;
-			color: green;
-		}
-
-		h4{
-			font-size: 10px;
-			letter-spacing: 1px;
-			color: purple;
-			text-align: left;
-		}
-	}
-	
-	@media only screen and (min-width: 600px) {
-		h1{
-			font-size: 30px;
-			color: chocolate;
-		}
-
-		h2{
-			font-size: 20px;
-			font-family: Oswald, sans-serif;
-			/*text-transform: uppercase;*/
-			letter-spacing: 2px;
-			color: purple;
-		}
-
-		h3{
-			font-size: 10px;
-			color: rgb(0, 0, 255);
-			font-family:courier;
-			padding: 5px;
-			letter-spacing: 1px;
-			color: green;
-		}
-
-		h4{
-			font-size: 10px;
-			letter-spacing: 1px;
-			color: purple;
-			text-align: left;
-		}
+	h2{
+		font-size: 30px;
+		font-family: Oswald, sans-serif;
+		/*text-transform: uppercase;*/
+		letter-spacing: 4px;
+		color: purple;
 	}
 
-	@media only screen and (min-width: 782px) {
-		h1{
-			font-size: 40px;
-			color: rgb(101, 46, 6);
-		}
+	h3{
+		font-size: 20px;
+		font-family:courier;
+		padding: 5px;
+		letter-spacing: 2px;
+		color: rgb(139, 6, 146);
+	}
 
-		h2{
-			font-size: 30px;
-			font-family: Oswald, sans-serif;
-			/*text-transform: uppercase;*/
-			letter-spacing: 4px;
-			color: purple;
-		}
-
-		h3{
-			font-size: 20px;
-			font-family:courier;
-			padding: 5px;
-			letter-spacing: 2px;
-			color: rgb(139, 6, 146);
-		}
-
-		h4{
-			font-size: 20px;
-			letter-spacing: 2px;
-			color: purple;
-			text-align: left;
-		}
+	h4{
+		font-size: 20px;
+		letter-spacing: 2px;
+		color: purple;
+		text-align: left;
 	}
 
 	a{
 		color: blue;
-	}
-
-	p{
-		color: rgb(28, 7, 121);
-		text-align: left;
 	}
 
 	#logo{
@@ -238,105 +72,19 @@
 		font-size: 200%;
 	}
 
-	/* navigation links*/
-	@media only screen and (max-width: 600px) {
-		#menu{
-			font-size:100%;
-			letter-spacing: 2px;
-		}
-		
-		#menu,#logo{
-			line-height: 30px;
-		}
-		
-		#menu li{
-			float: right;
-			margin-right: 5px;
-			list-style-type: none;
-		}
-
-		.left-about-heading {
-			width: 80%;
-			float: right;
-			line-height: 20px;
-			clear: both;
-			margin-bottom: 20px;
-		}
-
-		.right-about-heading {
-			width: 80%;
-			float: left;
-			line-height: 20px;
-			clear: both;
-			margin-bottom: 20px;
-			position: fixed;
-		}
-	}
-	
-	@media only screen and (min-width: 600px) {
-		#menu{
-			font-size:100%;
-			letter-spacing: 2px;
-		}
-		
-		#menu,#logo{
-			line-height: 40px;
-		}
-
-		#menu li{
-			float: right;
-			margin-right: 10px;
-			list-style-type: none;
-		}
-
-		.left-about-heading {
-			width: 80%;
-			float: right;
-			line-height: 30px;
-			clear: both;
-			margin-bottom: 30px;
-		}
-
-		.right-about-heading {
-			width: 80%;
-			float: left;
-			line-height: 30px;
-			clear: both;
-			margin-bottom: 30px;
-		}
+	#menu{
+		font-size:100%;
+		letter-spacing: 3px;
 	}
 
-	@media only screen and (min-width: 1100px) {
-		#menu{
-			font-size:100%;
-			letter-spacing: 3px;
-		}
-	
-		#menu,#logo{
-			line-height: 50px;
-		}
+	#menu,#logo{
+		line-height: 50px;
+	}
 
-		#menu li{
-			float: right;
-			margin-right: 20px;
-			list-style-type: none;
-		}
-
-		.left-about-heading {
-			width: 80%;
-			float: right;
-			line-height: 30px;
-			clear: both;
-			margin-bottom: 40px;
-		}
-
-		.right-about-heading {
-			width: 80%;
-			float: left;
-			line-height: 30px;
-			clear: both;
-			margin-bottom: 40px;
-		}
+	#menu li{
+		float: right;
+		margin-right: 20px;
+		list-style-type: none;
 	}
 
 	#menu a:hover{
@@ -345,51 +93,20 @@
 		color: blue;
 	}
 
-	.active{
-		border-bottom: 1px solid #3a3a3a3a;
-	}
-
-	/* text in center*/
-	.centered {
-		margin-top: 100px;
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);
-	}
-
-	/* image fix left, right,*/
-	#left-about {
-		padding-top: 30px;
-		width: 40%;
-		float: left;
-	}
-
-	#right-about {
-		padding-top: 30px;
-		width: 40%;
-		float: right;
-		position: relative;
-	}
-
-	.right-about-heading h2 {
-		text-align: left;
-	
-	}
-
-	.right-about-heading p {
-		text-align: left;
-		
-	}
-
-
-/*text align food page*/
 	.foodtext {
 		text-align: left;
 	}
-	
-	
+
 	/* horizontal scroll image homepage*/
+	footer {
+		width: 100%;
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		z-index: 3;
+		display: block;
+	}
+	
 	div.scroll-container {
 		background-color: rgb(88, 42, 9);
 		overflow: auto;
@@ -429,3 +146,45 @@
 		display: table;
 		clear: both;
 	}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+	p{
+		color: rgb(10, 6, 198);
+	}
+
+
+
+	p{
+		color: rgb(28, 7, 121);
+		text-align: left;
+	}
+
+
+
+	.active{
+		border-bottom: 1px solid #3a3a3a3a;
+	}
+
+	.centered {
+		margin-top: 100px;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+
+
+
+*/
+	
