@@ -34,7 +34,6 @@
 		top: 20px;
 	}
 	
-	
 	h1{
 		font-size: 40px;
 		color: rgb(101, 46, 6);
@@ -48,12 +47,14 @@
 		color: purple;
 	}
 
-	h3{
+	h3
+	{
 		font-size: 20px;
 		font-family:courier;
 		padding: 5px;
 		letter-spacing: 2px;
 		color: rgb(139, 6, 146);
+		text-align: justify;
 	}
 
 	h4{
@@ -93,9 +94,6 @@
 		color: blue;
 	}
 
-	.foodtext {
-		text-align: left;
-	}
 
 	/* horizontal scroll image homepage*/
 	footer {
