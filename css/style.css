@@ -5,7 +5,8 @@
 		border: none;
 	}
 
-	body{
+	body
+	{
 		font-family: lato, sans-serif;
 		font-weight: 300;
 		color: black;
@@ -15,80 +16,229 @@
 		z-index: 2;
 		font-size: 100%			
 	}
-	
-	header{
-		margin-top: 0px;
-		text-align : left;
-		top: 0;
-		left: 0;
-		z-index: 1;
-		height: 50px;
-	}
 
-	section {
-		background-repeat: no-repeat;
-		background-size: 100% 100%;
-		position: static;
-		z-index: 2;
-		font-size: 100%;		
-		top: 20px;
-	}
-	
-	h1{
-		font-size: 40px;
-		color: rgb(101, 46, 6);
-	}
+	a {color: blue;}
 
-	h2{
-		font-size: 30px;
-		font-family: Oswald, sans-serif;
-		/*text-transform: uppercase;*/
-		letter-spacing: 4px;
-		color: purple;
-	}
-
-	h3
+	#logo
 	{
-		font-size: 20px;
-		font-family:courier;
-		padding: 5px;
-		letter-spacing: 2px;
-		color: rgb(139, 6, 146);
-		text-align: justify;
-	}
-
-	h4{
-		font-size: 20px;
-		letter-spacing: 2px;
-		color: purple;
-		text-align: left;
-	}
-
-	a{
-		color: blue;
-	}
-
-	#logo{
 		float: left;
-		font-size: 200%;
+		margin-top: 1%;
+		margin-left: 10%;
+		font-size: 300%;
 	}
 
-	#menu{
-		font-size:100%;
-		letter-spacing: 3px;
-	}
+	#menu {font-size:100%;}
 
-	#menu,#logo{
-		line-height: 50px;
-	}
-
-	#menu li{
+	#menu li
+	{
 		float: right;
 		margin-right: 20px;
 		list-style-type: none;
 	}
 
-	#menu a:hover{
+	.container 
+	{
+		position: absolute;
+  		top: 20%;
+  		left: 10%;
+		right: 10%;
+		text-align: justify;
+	}
+
+	/*Media specific setting*/
+
+	/*For Mobile Screen*/
+
+	#menu,#logo {line-height: 20px;}
+
+	header
+	{
+		margin-top: 0px;
+		text-align : left;
+		top: 0;
+		left: 0;
+		z-index: 1;
+		height: 20px;
+	}
+
+	#logo
+	{
+		float: left;
+		margin-top: 1%;
+		margin-left: 10%;
+		font-size: 150%;
+	}
+
+	section 
+	{
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+		position: static;
+		z-index: 2;
+		font-size: 100%;		
+		top: 2px;
+	}
+	
+	h1
+	{
+		font-size: 18px;
+		color: rgb(101, 46, 6);
+	}
+
+	h2
+	{
+		font-size: 15px;
+		font-family: Oswald, sans-serif;
+		color: purple;
+	}
+
+	h3
+	{
+		font-size: 12px;
+		font-family:courier;
+		padding: 2px;
+		color: rgb(139, 6, 146);
+		text-align: justify;
+	}
+
+	h4
+	{
+		font-size: 12px;
+		color: purple;
+		text-align: left;
+	}
+
+	/*For tablet Screen*/
+	
+	@media screen and (min-width: 600px)
+	{
+		#menu,#logo {line-height: 25px;}
+
+		header
+		{
+			margin-top: 0px;
+			text-align : left;
+			top: 0;
+			left: 0;
+			z-index: 1;
+			height: 30px;
+		}
+
+		#logo
+		{
+			float: left;
+			margin-top: 1%;
+			margin-left: 10%;
+			font-size: 200%;
+		}
+
+		section 
+		{
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			position: static;
+			z-index: 2;
+			font-size: 100%;		
+			top: 15px;
+		}
+		
+		h1
+		{
+			font-size: 25px;
+			color: rgb(101, 46, 6);
+		}
+
+		h2
+		{
+			font-size: 20px;
+			font-family: Oswald, sans-serif;
+			color: purple;
+		}
+
+		h3
+		{
+			font-size: 15px;
+			font-family:courier;
+			padding: 3px;
+			color: rgb(139, 6, 146);
+			text-align: justify;
+		}
+
+		h4
+		{
+			font-size: 15px;
+			color: purple;
+			text-align: left;
+		}
+	}
+
+	/*For Laptop Screen*/
+
+	@media screen and (min-width: 1024px)
+	{
+		#menu,#logo {line-height: 50px;}
+
+		header
+		{
+			margin-top: 0px;
+			text-align : left;
+			top: 0;
+			left: 0;
+			z-index: 1;
+			height: 60px;
+		}
+
+		#logo
+		{
+			float: left;
+			margin-top: 1%;
+			margin-left: 10%;
+			font-size: 300%;
+		}
+	
+		section 
+		{
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			position: static;
+			z-index: 2;
+			font-size: 100%;		
+			top: 20px;
+		}
+		
+		h1
+		{
+			font-size: 40px;
+			color: rgb(101, 46, 6);
+		}
+
+		h2
+		{
+			font-size: 30px;
+			font-family: Oswald, sans-serif;
+			color: purple;
+		}
+
+		h3
+		{
+			font-size: 20px;
+			font-family:courier;
+			padding: 5px;
+			color: rgb(139, 6, 146);
+			text-align: justify;
+		}
+
+		h4
+		{
+			font-size: 20px;
+			color: purple;
+			text-align: left;
+		}
+	}
+	/*End of media specific setting*/
+
+	#menu a:hover
+	{
 		border-bottom: 1px solid #3a3a3a;
 		background: #cdf;
 		color: blue;
@@ -96,7 +246,8 @@
 
 
 	/* horizontal scroll image homepage*/
-	footer {
+	footer 
+	{
 		width: 100%;
 		position: fixed;
 		bottom: 0;
@@ -105,24 +256,17 @@
 		display: block;
 	}
 	
-	div.scroll-container {
+	div.scroll-container 
+	{
 		background-color: rgb(88, 42, 9);
 		overflow: auto;
 		white-space: nowrap;
 		padding: 10px;	
 	}
 
-	div.scroll-container img {
+	div.scroll-container img 
+	{
 		padding: 10px;
-	}
-
-	.container {
-
-		position: absolute;
-  		top: 100px;
-  		left: 75px;
-		right: 50px;
-		text-align: justify;
 	}
 
 	#colmnimg
@@ -144,45 +288,3 @@
 		display: table;
 		clear: both;
 	}
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-	p{
-		color: rgb(10, 6, 198);
-	}
-
-
-
-	p{
-		color: rgb(28, 7, 121);
-		text-align: left;
-	}
-
-
-
-	.active{
-		border-bottom: 1px solid #3a3a3a3a;
-	}
-
-	.centered {
-		margin-top: 100px;
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);
-	}
-
-
-
-*/
-	
