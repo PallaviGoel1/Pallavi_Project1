@@ -1,4 +1,4 @@
-#My First Project
+#Holi Project
 
 Welcome: [Code Institute](https://codeinstitute.net)
 
@@ -12,6 +12,7 @@ festival for example,what this festival is, why it is celebrated, how one can ce
 I, myself, struggled many times to get the complete understanding of this festival and needed to google for multiple websites to get all the information. 
 So this thought triggered in my mind to create a one stop place for such information and to prepare this website. In this website, I used information 
 from various places, including public websites, religious books and as well self knowledge.
+![Response](images/project1Screenshot%202023-08-29%20113712.png)
 
 #How to use: 
 
