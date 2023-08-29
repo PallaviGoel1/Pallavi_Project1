@@ -47,7 +47,7 @@ CSS =
         No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator )
 
 
-## Deployment Steps
+# Deployment Steps
 
 This game website is deployed to Github page and steps for the same are as follows:
 - Goto Github repository
