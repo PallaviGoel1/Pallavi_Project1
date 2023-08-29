@@ -56,6 +56,16 @@ This game website is deployed to Github page and steps for the same are as follo
 - Select Main branch and click on save
 
 Working link to the website is here - https://pallavigoel1.github.io/Pallavi_Project1/
+
+## Credits 
+
+I fetched help for coding from tutorial provided by Code Institute, W3 Schools and Slack community.
+
+Also, the images are captured from open libraries available.
+
+## Media
+
+- The photos used on the Home and Game page are from Google Images
 # Disclaimer:
 
 Images used in this website is fetched from various website available on internet today. 
