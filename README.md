@@ -46,6 +46,16 @@ HTML =
 CSS =
         No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator )
 
+
+## Deployment Steps
+
+This game website is deployed to Github page and steps for the same are as follows:
+- Goto Github repository
+- Navigate to Settings
+- Goto to Code and Automation -> Pages tab
+- Select Main branch and click on save
+
+Working link to the website is here - https://pallavigoel1.github.io/Pallavi_Project1/
 # Disclaimer:
 
 Images used in this website is fetched from various website available on internet today. 
