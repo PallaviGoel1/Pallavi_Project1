@@ -1,4 +1,4 @@
-#Holi Project
+# Holi Project
 
 Welcome: [Code Institute](https://codeinstitute.net)
 
@@ -14,13 +14,13 @@ So this thought triggered in my mind to create a one stop place for such informa
 from various places, including public websites, religious books and as well self knowledge.
 ![Response](images/project1Screenshot%202023-08-29%20113712.png)
 
-#How to use: 
+# How to use: 
 
 This is an information website, hence no specific instructions are required here for usage. Information on this website is quite self explanatory.
  On the events page, currently displaying a (dummy) list of events. in future, will add an option to filter that out based on search criteria so
  that the user can filter out a list of events based on his/her current location.
 
-#Roadmap:
+# Roadmap:
 
 Currently this website is for internal use and is limited to HTML and CSS as technology. In future would like to enhance this as follows:
 - Update information on Preparations page as food is just one part of preparation though it is most important
@@ -30,15 +30,15 @@ Currently this website is for internal use and is limited to HTML and CSS as tec
 - Add functionality to send event information to the registered users
 - Cater event registration process through this website for the events around the world
 
-#Acknowledgement:
+# Acknowledgement:
 
 I took help from training material provided by Code Institute when preparing this website. Along with that, big community of developer from Code Institute and mentor were very halpful for supporting me time to time during the development phase for me.
 
-#Project Status:
+# Project Status:
 
 In current status, this website is functioning for the targated local execution. As well this is ready for launching in WWW. Highlevel enhancements for fututre are metioned in roadmap, which are not mandatory, of course, but will provide more value to the website.
 
-#Validator Testing
+# Validator Testing
 
 HTML =
         No errors were returned when passing through the official [W3C validator](https://validator.w3.org)
@@ -46,6 +46,6 @@ HTML =
 CSS =
         No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator )
 
-#Disclaimer:
+# Disclaimer:
 
 Images used in this website is fetched from various website available on internet today. 
