@@ -15,13 +15,13 @@ from various places, including public websites, religious books and as well self
 
 # Features
 Holi project 
+
+index page info
+![Response](images/indexScreenshot%202023-08-30%20215638.png)
 ## Navigation Bar
 Information about NAV
 ![Response](images/navScreenshot%202023-08-30%20215704.png)
 
-
-first page info
-![Response](images/indexScreenshot%202023-08-30%20215638.png)
 
 story page info
 ![Response](images/storyScreenshot%202023-08-30%20215806.png)
