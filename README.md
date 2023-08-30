@@ -20,6 +20,22 @@ Information about NAV
 ![Response](images/navScreenshot%202023-08-30%20215704.png)
 
 
+first page info
+![Response](images/indexScreenshot%202023-08-30%20215638.png)
+
+story page info
+![Response](images/storyScreenshot%202023-08-30%20215806.png)
+
+
+celebration page info
+![Response](images/celebrationScreenshot%202023-08-30%20215833.png)
+
+
+recipe page info
+![Response](images/recipeScreenshot%202023-08-30%20215858.png)
+
+event information page
+![Response](images/eventinfoScreenshot%202023-08-30%20215941.png)
  
 # How to use: 
 
