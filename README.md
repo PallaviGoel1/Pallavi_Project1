@@ -1,47 +1,41 @@
-# Holi Project
+# Holi - The festival of colors
 
-Welcome: [Code Institute](https://codeinstitute.net)
+This website is the place for information related to one of the most popular Indian festivals, Holi. Here I try to add all relevant information related to this festival for example, what this festival is, why it is celebrated, how one can celebrate it, what preparations are required, where one can join others in this celebration, etc. 
 
-Project Description: 
-
-As I am studying at Code Institute, this project is prepared for submission as my first project after getting a good understanding of HTML and CSS.
-
-This project is the place for information related to one of the most popular Indian festivals, Holi. Here I try to add all relevant information related to this festival for example,what this festival is, why it is celebrated, how one can celebrate it, what preparations are required, where one can join others in this celebration, etc. 
-
-I, myself, struggled many times to get the complete understanding of this festival and needed to Google multiple websites to get all the information. 
-So this thought triggered in my mind the desire to create a one stop place for such information and to prepare this website. On this website, I used information 
+One can find most of the information related to this project by visiting various websites. But couldn't find a single website which can provide complete information related to this. So thought to create a one stop place for such information to make it easier for anyone intersted in it. On this website, I used information 
 from various places, including public websites, religious books and as well self-knowledge.
+
 ![Response](images/project1Screenshot%202023-08-30%20212312.png)
 
 # Features
-Holi project 
-
-index page info
+This is an informational website. 
+ 
 ![Response](images/indexScreenshot%202023-08-30%20215638.png)
 ## Navigation Bar
 Information about NAV
+
 ![Response](images/navScreenshot%202023-08-30%20215704.png)
 
-
+## History Page
 story page info
+
 ![Response](images/storyScreenshot%202023-08-30%20215806.png)
 
-
+## Celebrations Page
 celebration page info
+
 ![Response](images/celebrationScreenshot%202023-08-30%20215833.png)
 
-
+## Recipe Page
 recipe page info
+
 ![Response](images/recipeScreenshot%202023-08-30%20215858.png)
 
+## Event Information Page
 event information page
+
 ![Response](images/eventinfoScreenshot%202023-08-30%20215941.png)
  
-# How to use: 
-
-This is an information website; hence, no specific instructions are required here for usage. The information on this website is quite self-explanatory. On the events page,it is currently displaying a dummy list of events. In the future,we will add an option to filter that out based on search criteria, so
- that the user can filter out a list of events based on his or her current location.
-
 # Roadmap:
 
 Currently,this website is for internal use and is limited to HTML and CSS as technologies. In the future,we would like to enhance this as follows:
