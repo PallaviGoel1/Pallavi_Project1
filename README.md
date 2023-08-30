@@ -14,13 +14,13 @@ from various places, including public websites, religious books and as well self
 ![Response](images/project1Screenshot%202023-08-30%20212312.png)
 
 # Features
+Holi project 
+## Navigation Bar
+Information about NAV
+![Response](images/navScreenshot%202023-08-30%20215704.png)
 
-## Existing Features
 
-        #Navigation Bar
-
-
-
+ 
 # How to use: 
 
 This is an information website; hence, no specific instructions are required here for usage. The information on this website is quite self-explanatory. On the events page,it is currently displaying a dummy list of events. In the future,we will add an option to filter that out based on search criteria, so
