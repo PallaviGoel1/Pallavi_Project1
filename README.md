@@ -17,7 +17,7 @@ from various places, including public websites, religious books and as well self
 
 ## Existing Features
 
-        # Navigation Bar
+        #Navigation Bar
 
 
 
