@@ -11,7 +11,7 @@ This project is the place for information related to one of the most popular Ind
 I, myself, struggled many times to get the complete understanding of this festival and needed to Google multiple websites to get all the information. 
 So this thought triggered in my mind the desire to create a one stop place for such information and to prepare this website. On this website, I used information 
 from various places, including public websites, religious books and as well self-knowledge.
-![Response](images/project1Screenshot%202023-08-29%20113712.png)
+![Response](images/project1Screenshot%202023-08-30%20212312.png)
 
 # How to use: 
 
