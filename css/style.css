@@ -269,21 +269,21 @@
 		padding: 10px;
 	}
 
-	#colmnimg
+	.colmnimg
 	{
 		float: left;
 		width: 30%;
 		padding: 5px;
 	}
 
-	#colmntxt
+	.colmntxt
 	{
 		float: left;
 		width: 60%;
 		padding: 5px;
 	}
 
-	#row
+	.row
 	{
 		display: table;
 		clear: both;
