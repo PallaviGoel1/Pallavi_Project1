@@ -14,7 +14,7 @@ This is an informational website. On this website, information is grouped as per
 ## Navigation Bar
 The navigation bar has links to all the pages in this website and follows the same structure on all the pages. So basically, users can jump to any page from anywhere while browsing information here. Navigation menu name are self-explanatory and precise. 
 
-<img src="images/navscreenshot.png" width=50%>
+<img src="images/navscreenshot.png" width=100%>
 
 ## Origin Page
 Here is bit of insight from a historic point of view for this festival as to why it is being celebrated and probably since when as well. There are various versions of these stories and many of them are very different. On this website,the most famous and widely accepted theories behind the celebration of this festival are only added to avoid any possible dispute.
