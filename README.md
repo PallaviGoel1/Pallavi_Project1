@@ -9,7 +9,7 @@ One can find most of the information related to this festival by visiting variou
 # Features
 This is an informational website. On this website, information is grouped as per relevance and placed on different pages. The home page has general detail about what the this festival is about.I also added some relevant images at the bottom of the page as a scroll bar. In this scroll bar section, more pictures can be added anytime by just placing smiliar code under the footer section on the index page.
  
-![Response](images/indexscreenshot.png)| {:height="100px" width="100px"}
+![Response](img src="images/indexscreenshot.png" height="100px" width="100px")
 ## Navigation Bar
 The navigation bar has links to all the pages in this website and follows the same structure on all the pages. So basically, users can jump to any page from anywhere while browsing information here. Navigation menu name are self-explanatory and precise. 
 
