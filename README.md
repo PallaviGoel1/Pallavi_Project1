@@ -14,27 +14,27 @@ This is an informational website. On this website, information is grouped as per
 ## Navigation Bar
 The navigation bar has links to all the pages in this website and follows the same structure on all the pages. So basically, users can jump to any page from anywhere while browsing information here. Navigation menu name are self-explanatory and precise. 
 
-![Response](images/navscreenshot.png)
+<img src="images/navscreenshot.png" width=50%>
 
 ## Origin Page
 Here is bit of insight from a historic point of view for this festival as to why it is being celebrated and probably since when as well. There are various versions of these stories and many of them are very different. On this website,the most famous and widely accepted theories behind the celebration of this festival are only added to avoid any possible dispute.
 
-![Response](images/storyscreenshot.png)
+<img src="images/storyscreenshot.png" width=50%>
 
 ## Celebrations Page
 Across the world, this festival is celebrated in various ways. And even in India, where it is celebrated most, there are different ways to celebrate as per locallity. This is what is placed under this page,along with the name of celebration method, the area name, and how they celebrate it.
 
-![Response](images/celebrationscreenshot.png)
+<img src="images/celebrationscreenshot.png" width=50%>
 
 ## Recipe Page
 Food is one of the main part of celebration, especially in India. Also, there is some special food for each celebration, which can be seen as signature item. This page has not only inforamtion related to holi specific food items but also a bit of a deeper glance at what this food item is as well as Youtube links for recipes.
 
-![Response](images/recipescreenshot.png)
+<img src="images/recipescreenshot.png" width=50%>
 
 ## Event Information Page
 Despite all of my efforts, I agree that there is always a big scope of improvement. Some of those I already figured out and mentioned in the section "Roadmap" under this document. But I also created this page so that more feedback can be shared with me on this website, making it a great repository of inforamtion for this festival.
 
-![Response](images/eventinfoscreenshot.png)
+<img src="images/eventinfoscreenshot.png" width=50%>
  
 # Roadmap:
 
