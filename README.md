@@ -9,7 +9,7 @@ One can find most of the information related to this festival by visiting variou
 # Features
 This is an informational website. On this website, information is grouped as per relevance and placed on different pages. The home page has general detail about what the this festival is about.I also added some relevant images at the bottom of the page as a scroll bar. In this scroll bar section, more pictures can be added anytime by just placing smiliar code under the footer section on the index page.
  
-<p align="center" width=100%>
+<p align="center" width=50%>
         <img src="images/indexscreenshot.png">
 </p>
 
