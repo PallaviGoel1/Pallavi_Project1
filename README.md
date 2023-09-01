@@ -9,32 +9,32 @@ One can find most of the information related to this festival by visiting variou
 # Features
 This is an informational website. On this website, information is grouped as per relevance and placed on different pages. The home page has general detail about what the this festival is about.I also added some relevant images at the bottom of the page as a scroll bar. In this scroll bar section, more pictures can be added anytime by just placing smiliar code under the footer section on the index page.
  
-<img src="images/indexscreenshot.png" width=75% style="border:5px; border-color: black">
+![Response](images/indexscreenshot.png)
 
 ## Navigation Bar
 The navigation bar has links to all the pages in this website and follows the same structure on all the pages. So basically, users can jump to any page from anywhere while browsing information here. Navigation menu name are self-explanatory and precise. 
 
-<img src="images/navscreenshot.png" width=100%>
+![Response](images/navscreenshot.png)
 
 ## Origin Page
 Here is bit of insight from a historic point of view for this festival as to why it is being celebrated and probably since when as well. There are various versions of these stories and many of them are very different. On this website,the most famous and widely accepted theories behind the celebration of this festival are only added to avoid any possible dispute.
 
-<img src="images/storyscreenshot.png" width=50%>
+![Response](images/storyscreenshot.png)
 
 ## Celebrations Page
 Across the world, this festival is celebrated in various ways. And even in India, where it is celebrated most, there are different ways to celebrate as per locallity. This is what is placed under this page,along with the name of celebration method, the area name, and how they celebrate it.
 
-<img src="images/celebrationscreenshot.png" width=50%>
+![Response](images/celebrationscreenshot.png)
 
 ## Recipe Page
 Food is one of the main part of celebration, especially in India. Also, there is some special food for each celebration, which can be seen as signature item. This page has not only inforamtion related to holi specific food items but also a bit of a deeper glance at what this food item is as well as Youtube links for recipes.
 
-<img src="images/recipescreenshot.png" width=50%>
+![Response](images/recipescreenshot.png)
 
 ## Event Information Page
 Despite all of my efforts, I agree that there is always a big scope of improvement. Some of those I already figured out and mentioned in the section "Roadmap" under this document. But I also created this page so that more feedback can be shared with me on this website, making it a great repository of inforamtion for this festival.
 
-<img src="images/eventinfoscreenshot.png" width=50%>
+![Response](images/eventinfoscreenshot.png)
  
 # Roadmap:
 
